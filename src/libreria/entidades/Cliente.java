@@ -13,6 +13,7 @@ public class Cliente {
     private String apellido;
     private String domicilio;
     private String teléfono;
+    private String atrib1;
 
     public Cliente() {
     }
