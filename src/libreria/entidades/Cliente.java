@@ -15,6 +15,7 @@ public class Cliente {
     private String teléfono;
     private String atrib1;
     private String atrib2;
+    private String atrib3;
 
     public Cliente() {
     }
